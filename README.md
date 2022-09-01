@@ -1,5 +1,8 @@
 
-![github profile img](apd.png)
+<p align="center">
+  <img src="apd.png" style="border-radius: 5px">
+  
+</p>
 
 <h1 align="center">I am Stein, but I go by John, or Adams</h1>
 
