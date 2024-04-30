@@ -4,7 +4,7 @@
   
 </p>
 
-<h1 align="center">I am Stein, but I go by John, or Adams</h1>
+<h1 align="center">I am Stein</h1>
 
 <h2>About me</h2>
 
